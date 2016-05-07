@@ -3,8 +3,11 @@
 Simple application to display text in a terminal window, but much larger.
 
 ##Installation
+Make sure you have libsdl-gfx1.2-dev and build_essential installed.
+```
 make
 sudo cp big_view /usr/local/bin/
+```
 
 ##Example
 ```
